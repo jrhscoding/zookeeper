@@ -106,6 +106,18 @@
       "diet": "omnivore",
       "personalityTraits": "[\"hungry\"]",
       "id": "10"
+    },
+    {
+      "name": "Josh",
+      "species": "Dawg",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
